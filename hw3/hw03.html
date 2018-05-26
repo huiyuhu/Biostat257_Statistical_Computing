@@ -13633,7 +13633,7 @@ $$ \mathbf{x}^{(t+1)} = \mathbf{P}^T \mathbf{x}^{(t)} $$</p>
 <div class="prompt input_prompt">In&nbsp;[113]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">rev</span><span class="o">=</span><span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">rev</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
 <span class="p">[</span><span class="n">collect</span><span class="p">(</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">)</span> <span class="n">x1</span><span class="p">[</span><span class="n">top20</span><span class="p">]</span> <span class="n">U</span><span class="p">[</span><span class="n">top20</span><span class="p">]]</span>
 </pre></div>
 
@@ -13687,7 +13687,7 @@ $$ \mathbf{x}^{(t+1)} = \mathbf{P}^T \mathbf{x}^{(t)} $$</p>
 <div class="prompt input_prompt">In&nbsp;[108]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x2</span><span class="p">,</span> <span class="n">rev</span><span class="o">=</span><span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x2</span><span class="p">,</span> <span class="n">rev</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
 <span class="p">[</span><span class="n">collect</span><span class="p">(</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">)</span> <span class="n">x2</span><span class="p">[</span><span class="n">top20</span><span class="p">]</span> <span class="n">U</span><span class="p">[</span><span class="n">top20</span><span class="p">]]</span>
 </pre></div>
 
@@ -13741,7 +13741,7 @@ $$ \mathbf{x}^{(t+1)} = \mathbf{P}^T \mathbf{x}^{(t)} $$</p>
 <div class="prompt input_prompt">In&nbsp;[109]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x3</span><span class="p">,</span> <span class="n">rev</span><span class="o">=</span><span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x3</span><span class="p">,</span> <span class="n">rev</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
 <span class="p">[</span><span class="n">collect</span><span class="p">(</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">)</span> <span class="n">x3</span><span class="p">[</span><span class="n">top20</span><span class="p">]</span> <span class="n">U</span><span class="p">[</span><span class="n">top20</span><span class="p">]]</span>
 </pre></div>
 
@@ -13795,7 +13795,7 @@ $$ \mathbf{x}^{(t+1)} = \mathbf{P}^T \mathbf{x}^{(t)} $$</p>
 <div class="prompt input_prompt">In&nbsp;[123]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x4</span><span class="p">,</span> <span class="n">rev</span><span class="o">=</span><span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">top20</span> <span class="o">=</span> <span class="n">sortperm</span><span class="p">(</span><span class="n">x4</span><span class="p">,</span> <span class="n">rev</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)[</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">]</span>
 <span class="p">[</span><span class="n">collect</span><span class="p">(</span><span class="mi">1</span><span class="o">:</span><span class="mi">20</span><span class="p">)</span> <span class="n">x4</span><span class="p">[</span><span class="n">top20</span><span class="p">]</span> <span class="n">U</span><span class="p">[</span><span class="n">top20</span><span class="p">]]</span>
 </pre></div>
 
