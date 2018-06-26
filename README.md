@@ -25,7 +25,8 @@
 ### HW4:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw4/hw04.html)
 * Build a classifer for handwritten digit recognition
 * Dirichlet-multinomial distribution
-* Newton's method
+* Newton's Method and Fisher Scoring [Slides](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/18-newton/newton.html)
 
 ### HW5: [Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw5/hw05.html)
-* MM and EM algorithm approach
+* MLE of the Dirichlet-multinomial model
+* MM and EM algorithm approach ([MM](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/20-mm/deLeeuw.pdf), [EM](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/19-em/em.html))
