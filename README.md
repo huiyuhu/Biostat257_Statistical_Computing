@@ -12,6 +12,9 @@
 
 ### HW1:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw1/hw01.html) 
 * Julia Basics
+* Sherman-Morrison formula
+* Woodbury formula
+* Binomial inversion formula
 
 ### HW2:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw2/hw02.html)
 * BLAS: basic linear algebra subprograms [BLAS Slides](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/06-numalgintro/numalgintro.html)
