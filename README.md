@@ -19,7 +19,7 @@
 
 ### HW3:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw3/hw03.html)
 * Big n regression
-* Google PageRank
+* Google PageRank [PageRank wiki](https://en.wikipedia.org/wiki/PageRank)
 
 ### HW4:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw4/hw04.html)
 * Build a classifer for handwritten digit recognition
