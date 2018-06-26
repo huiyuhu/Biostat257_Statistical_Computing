@@ -20,6 +20,7 @@
 ### HW3:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw3/hw03.html)
 * Big n regression
 * Sweep method and Cholesky method for solving linear regression [Summary of Linear Regression](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/12-linreg/linreg.html)
+* Sweep operator
 * Google PageRank [PageRank wiki](https://en.wikipedia.org/wiki/PageRank)
 
 ### HW4:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw4/hw04.html)
