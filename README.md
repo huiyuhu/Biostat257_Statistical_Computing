@@ -22,7 +22,8 @@
 * Big n regression
 * Sweep method and Cholesky method for solving linear regression [Summary of Linear Regression](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/12-linreg/linreg.html)
 * Sweep operator
-* Google PageRank [PageRank wiki](https://en.wikipedia.org/wiki/PageRank)
+* Google PageRank problem [PageRank wiki](https://en.wikipedia.org/wiki/PageRank)
+* LU decomposition; Jacobi or Gauss-Seidel;dense eigen-solver; simple iterative eigen-solver such as the power method
 
 ### HW4:[Link](http://hua-zhou.github.io/teaching/biostatm280-2018spring/hw/hw4/hw04.html)
 * Build a classifer for handwritten digit recognition
